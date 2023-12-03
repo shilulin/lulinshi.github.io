@@ -1,13 +1,9 @@
 ---
-title: "MulHiST: Multiple Histological Staining for Thick Biological Samples via Unsupervised Image-to-Image Translation"
+title: "One-side Virtual Histological Staining Model for Complex Human Samples"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_71)'
-citation: 'Shi, Lulin, et al. "MulHiST: Multiple Histological Staining for Thick Biological Samples via Unsupervised Image-to-Image Translation." International Conference on Medical Image Computing and Computer-Assisted Intervention. 2023.'
+date: 202209
+venue: 'IEEE BHI'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_71)
