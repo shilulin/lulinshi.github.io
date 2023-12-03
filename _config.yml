@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lulin / Site Title"
+title                    : "Lulin SHI's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lulin SHI"
-  avatar           : "Weixin Image_20231203204205.jpg"
+  avatar           : "Weixin Image_20231203204205.png"
   bio              : "Ph.D. Candidate in HKUST"
   location         : "Hong Kong"
   employer         :
